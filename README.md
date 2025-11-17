@@ -1,3 +1,5 @@
+   Link del blog del proyecto: https://audio-genre-discovery.hashnode.dev
+
    Todos los amantes de la música sabemos que los géneros tradicionales raramente reflejan nuestros gustos personales. Muchas veces he buscado canciones “del mismo género” de una que me gusta, solo para descubrir que no capturan lo que hace única a esa canción.
 
    Este proyecto nace de la idea de explorar “géneros ocultos” dentro de nuestras canciones favoritas, con el objetivo de descubrir similitudes musicales que puedan generar mejores recomendaciones y nuevas formas de explorar la música.
@@ -25,6 +27,7 @@ Con él, busco combinar dos de mis grandes pasiones: la música y el análisis d
 
 
    Con este enfoque, no solo exploramos la música desde un ángulo diferente, sino que también aprendemos a usar herramientas de análisis de datos que tienen aplicaciones en múltiples industrias.
+
 
 
 
